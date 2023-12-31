@@ -16,7 +16,7 @@
 
 ## Description
 
-This practice is a fictitious band website with fake dates to practice image floating and CSS styling 
+This practice is a fictitious band website with fake dates to practice image floating and CSS styling. 
 
 ## Setup/Installation Requirements
 
